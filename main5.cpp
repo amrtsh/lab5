@@ -86,7 +86,7 @@ public:
 
 
 int main() {
-    Bank privatBank{"My bank"};
+    Bank privatBank{"PrivatBank"};
 
     BankAccount account1{1, "Dima", 1000};
     BankAccount account2{2, "Igor", 3000.5};
